@@ -207,6 +207,47 @@ The Zero-Party Data Collection Module is located in the `14-zero-party-data/` di
 
 ---
 
+## Personalization Tags Module
+
+Personalization is the foundation of effective email marketing. The Personalization Tags Module provides a comprehensive reference to all available Klaviyo personalization tags and variables, enabling you to create truly dynamic, one-to-one experiences at scale.
+
+**What's Included:**
+- **Complete Tags Reference:** Every available Klaviyo personalization tag organized by category
+- **Best Practices Guide:** Strategic guidance on moving from basic to advanced personalization
+- **Real-World Examples:** Detailed examples of personalized welcome series, abandoned cart emails, and cross-sells
+- **Personalization Maturity Model:** A four-level framework for advancing your personalization strategy
+
+**Key Benefits:**
+This module enables you to move beyond basic personalization (like using a customer's first name) and leverage profile properties, event variables, custom properties, conditional logic, and dynamic content to create highly relevant and engaging email experiences.
+
+**The Personalization Advantage:**
+Clients who implement comprehensive personalization strategies see higher open rates, click-through rates, and conversions. More importantly, personalization builds stronger customer relationships by making each interaction feel relevant and helpful.
+
+The Personalization Tags Module is located in the `15-personalization-tags/` directory and includes a comprehensive README with usage instructions.
+
+---
+
+## Email Design Module
+
+Email design is the foundation of effective email marketing. The Email Design Module provides a comprehensive guide to creating a scalable, on-brand, and high-performing email design system in Klaviyo.
+
+**What's Included:**
+- **Email Design Strategy Framework:** The philosophy and structure for building a scalable design system
+- **Building Universal Blocks Guide:** Step-by-step instructions for creating reusable content blocks
+- **Using Dynamic Content Guide:** How to leverage personalization tags, conditional logic, and dynamic product blocks
+- **Email Design Best Practices Guide:** Comprehensive guidance on layout, typography, color, images, and accessibility
+- **Mobile Optimization Guide:** Essential strategies for ensuring your emails look great on mobile devices
+
+**Key Benefits:**
+This module enables you to create a design system that ensures brand consistency, saves time through reusable components, scales efficiently as you add more clients, and drives better performance through mobile-first design and clear calls-to-action.
+
+**The Design System Advantage:**
+Clients who implement a structured design system can create new emails in a fraction of the time while maintaining perfect brand consistency. Universal blocks ensure that updates to headers, footers, and other key elements can be made once and applied everywhere.
+
+The Email Design Module is located in the `16-email-design/` directory and includes a comprehensive README with usage instructions.
+
+---
+
 ## Conclusion
 
 This comprehensive email marketing system provides you with a repeatable process for delivering exceptional results for your D2C clients. By following this framework, you can ensure that every aspect of your email marketing strategy is thorough, strategic, and aligned with the client's brand and business objectives.
