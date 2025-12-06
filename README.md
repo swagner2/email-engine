@@ -20,27 +20,36 @@ The framework is organized into a series of numbered folders, each representing 
 ```
 /email-marketing-framework
 ├── 00-SYSTEM-ARCHITECTURE.md
-├── 01-research-and-discovery
+├── 02-brand-research
 │   ├── TEMPLATE_Brand-Research-and-Discovery.md
 │   ├── TEMPLATE_Brand-Voice-and-Tone.md
 │   └── TEMPLATE_Style-Guide.md
-├── 02-customer-segmentation
-│   ├── TEMPLATE_Customer-Avatar.md
+├── 03-customer-avatars
+│   └── TEMPLATE_Customer-Avatar.md
+├── 04-segmentation-strategy
 │   └── TEMPLATE_Segmentation-Strategy.md
-├── 03-email-flows
+├── 05-email-flows
 │   ├── 01-welcome-series
 │   ├── 02-abandoned-cart
-│   └── ... (and so on for all 12 flows)
-├── 04-copywriting
+│   ├── 03-browse-abandonment
+│   └── ... (12 flows total)
+├── 06-copywriting-templates
 │   ├── TEMPLATE_Email-Copywriting-Guidelines.md
 │   ├── TEMPLATE_Subject-Line-Formulas.md
 │   └── TEMPLATE_CTA-Best-Practices.md
-├── 05-product-strategy
+├── 07-product-strategy
 │   ├── TEMPLATE_Product-Features-and-Benefits-Matrix.md
 │   └── TEMPLATE_Merchandising-Strategy.md
-├── 06-client-onboarding
+├── 08-client-onboarding
 │   ├── TEMPLATE_Client-Onboarding-Checklist.md
 │   └── TEMPLATE_Kickoff-Meeting-Agenda.md
+├── 11-subscription-modules
+│   ├── README.md
+│   ├── food-and-beverage/
+│   ├── supplements/
+│   ├── health-and-beauty/
+│   ├── apparel/
+│   └── general-subscription-optimization/
 └── README.md
 ```
 
@@ -98,6 +107,23 @@ Once the foundational flows are live, this system will continue to serve as your
 
 ---
 
+## Vertical-Specific Modules
+
+In addition to the core framework, this system includes specialized modules for different product verticals. These modules provide industry-specific strategies, flows, and templates tailored to the unique characteristics of each category.
+
+**Available Modules:**
+- **Food & Beverage (Subscription):** Meal kits, coffee, snacks, wine clubs
+- **Supplements (Subscription):** Vitamins, protein, wellness products
+- **Health & Beauty (Subscription):** Skincare, haircare, cosmetics
+- **Apparel & Fashion:** Clothing, accessories, footwear
+- **General Subscription Optimization:** Universal subscription strategies
+
+Each module is located in the `11-subscription-modules/` directory and includes its own README with detailed usage instructions.
+
+---
+
 ## Conclusion
 
 This comprehensive email marketing system provides you with a repeatable process for delivering exceptional results for your D2C clients. By following this framework, you can ensure that every aspect of your email marketing strategy is thorough, strategic, and aligned with the client's brand and business objectives.
+
+The addition of vertical-specific modules allows you to quickly adapt your approach based on the client's industry, ensuring that you're leveraging the most effective tactics for their particular product category.
