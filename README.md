@@ -248,6 +248,26 @@ The Email Design Module is located in the `16-email-design/` directory and inclu
 
 ---
 
+## Quality Assurance (QA) Testing Module
+
+Email marketing mistakes can be costly. The Quality Assurance Testing Module provides a structured, repeatable process for catching and fixing errors before they reach subscribers' inboxes.
+
+**What's Included:**
+- **QA Testing Workflow Framework:** A four-phase process covering setup, content & design, technical QA, and final approval
+- **Campaign QA Checklist:** A comprehensive, printable checklist for testing email campaigns
+- **Flow QA Checklist:** A specialized checklist for testing email flows, including flow-level and email-level checks
+- **Troubleshooting Guide:** Quick reference for diagnosing and fixing common issues like rendering problems, personalization errors, and deliverability issues
+
+**Key Benefits:**
+This module enables you to reduce errors, improve email performance, protect brand reputation, save time through structured processes, and build confidence that every email meets quality standards.
+
+**The QA Advantage:**
+Clients who implement rigorous QA processes see fewer subscriber complaints, higher engagement rates, and stronger brand trust. A single broken link or rendering issue can undermine an entire campaign, making QA an essential investment.
+
+The Quality Assurance Testing Module is located in the `17-qa-testing/` directory and includes a comprehensive README with usage instructions.
+
+---
+
 ## Conclusion
 
 This comprehensive email marketing system provides you with a repeatable process for delivering exceptional results for your D2C clients. By following this framework, you can ensure that every aspect of your email marketing strategy is thorough, strategic, and aligned with the client's brand and business objectives.
