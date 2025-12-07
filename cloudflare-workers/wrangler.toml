@@ -2,8 +2,8 @@ name = "email-engine"
 main = "worker.js"
 compatibility_date = "2024-12-07"
 
-KV namespace for logging (optional but recommended)
-[[kv_namespaces]]--!
+#KV namespace for logging (optional but recommended)
+[[kv_namespaces]]
 binding = "AUTOMATION_LOGS"
 id = "253308fbec1d46048abf262bfe6ea20f"
 
