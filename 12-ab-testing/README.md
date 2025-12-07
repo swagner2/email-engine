@@ -74,6 +74,14 @@ Use this library as a reference when planning your testing calendar or when you 
 
 ---
 
+### 5. Applying the PIE Framework in Klaviyo
+
+**File:** `GUIDE_Applying-the-PIE-Framework-in-Klaviyo.md`
+
+A detailed, practical guide on how to use the PIE (Potential, Importance, Ease) Framework to prioritize your A/B test ideas specifically within the Klaviyo environment. It includes scoring criteria, real-world examples, and a decision-making template to ensure you are always working on the highest-impact tests.
+
+---
+
 ## How to Use This Module
 
 ### For a New Client
