@@ -69,6 +69,15 @@ The framework is organized into a series of numbered folders, each representing 
 │   ├── TEMPLATE_Popup-Form.md
 │   ├── TEMPLATE_Flyout-Form.md
 │   └── TEMPLATE_Embedded-Form.md
+├── 14-zero-party-data
+├── 15-personalization-tags
+├── 16-email-design
+├── 17-qa-testing
+├── 18-post-send-analysis
+├── 19-ai-automation
+├── 20-klaviyo-api-automation
+│   ├── README.md
+│   └── IMPLEMENTATION-PLAN_Klaviyo-API-and-MCP-Automation.md
 └── README.md
 ```
 
@@ -265,6 +274,37 @@ This module enables you to reduce errors, improve email performance, protect bra
 Clients who implement rigorous QA processes see fewer subscriber complaints, higher engagement rates, and stronger brand trust. A single broken link or rendering issue can undermine an entire campaign, making QA an essential investment.
 
 The Quality Assurance Testing Module is located in the `17-qa-testing/` directory and includes a comprehensive README with usage instructions.
+
+---
+
+## Klaviyo API & MCP Automation Module
+
+The Klaviyo API & MCP Automation Module represents the future of email marketing agency operations. This module provides a strategic blueprint for automating the execution of your framework using Klaviyo's APIs and a Model Context Protocol (MCP) server, transforming manual tasks into automated workflows.
+
+**What's Included:**
+- **Implementation Plan:** A comprehensive plan detailing six automated workflows
+- **Architecture Overview:** How AI, MCP Server, and Klaviyo APIs work together
+- **API Endpoint Mapping:** Specific Klaviyo API endpoints required for each automation
+- **MCP Server Logic:** Step-by-step workflows for orchestrating each task
+
+**Six Automated Workflows:**
+1. **Automated Flow Building:** Create complete multi-step email flows in Klaviyo based on AI-generated copy and framework templates
+2. **Automated Segment Building:** Create complex customer segments instantly from strategic definitions
+3. **Automated Campaign Building:** Generate campaigns with AI-designed visuals and copy
+4. **Automated Campaign Performance Analysis:** Ingest campaign data and generate data-driven recommendations
+5. **Automated Flow Performance Analysis:** Continuously monitor flow performance and surface optimization opportunities
+6. **Automated A/B Test Analysis:** Analyze test results and recommend next tests using the PIE Framework
+
+**Key Benefits:**
+- **Massive Time Savings:** Reduce flow creation from hours to minutes, campaign building from 2-3 hours to 10-15 minutes
+- **Elimination of Manual Errors:** API-driven creation ensures perfect accuracy
+- **Scalability:** Manage 5-10x more clients with the same team size
+- **Continuous Improvement:** Automated performance analysis ensures data-driven optimization
+
+**The Transformation:**
+By implementing this automation layer, your agency fundamentally changes its operating model. Manual processes become automated workflows, scalability is unlocked, data-driven decisions become the default, and your team is elevated from execution to strategy and creative direction.
+
+The Klaviyo API & MCP Automation Module is located in the `20-klaviyo-api-automation/` directory and includes a comprehensive README with implementation guidance.
 
 ---
 
