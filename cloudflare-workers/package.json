@@ -1,0 +1,22 @@
+{
+  "name": "email-marketing-automation-worker",
+  "version": "1.0.0",
+  "description": "Cloudflare Worker for automating Klaviyo email marketing tasks across multiple client accounts",
+  "main": "worker.js",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy",
+    "tail": "wrangler tail"
+  },
+  "keywords": [
+    "cloudflare-workers",
+    "klaviyo",
+    "email-marketing",
+    "automation"
+  ],
+  "author": "Your Agency Name",
+  "license": "MIT",
+  "devDependencies": {
+    "wrangler": "^3.0.0"
+  }
+}

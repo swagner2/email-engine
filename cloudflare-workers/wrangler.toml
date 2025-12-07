@@ -1,0 +1,26 @@
+name = "email-marketing-automation"
+main = "worker.js"
+compatibility_date = "2024-12-07"
+
+# KV namespace for logging (optional but recommended)
+[[kv_namespaces]]
+binding = "AUTOMATION_LOGS"
+id = "YOUR_KV_NAMESPACE_ID"
+
+# Environment variables for client API keys
+# Add these via: wrangler secret put CLIENT_APIKEY_CLIENTNAME
+# Or set them in the Cloudflare dashboard
+
+# Example client API keys (use secrets in production)
+# [vars]
+# CLIENT_APIKEY_ACME_CORP = "pk_..."
+# CLIENT_APIKEY_BRAND_XYZ = "pk_..."
+
+# Routes (configure after deployment)
+# routes = [
+#   { pattern = "automation.youragency.com/*", zone_name = "youragency.com" }
+# ]
+
+# Workers Paid plan features (optional)
+# [limits]
+# cpu_ms = 50
